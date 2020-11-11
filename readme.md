@@ -1,9 +1,8 @@
-پروژه شامل دو بخش می باشد
+This is an implementation of catche in Verilog.
 
-بخش اول شامل کد پایتونی برای نوشتن دیتا در حافظه است که راهنمای آن نیز وجود دارد
+To run this project you can use modelsim.
 
-بخش دوم  شامل کد های وریلاگ پروژه است
+Also there are some python scripts to give data to memory.
 
-پروژه مادلسیم حتما باید در فولدر مادلسیم ساخته شود تا مسیر فایل های ایجاد شده توسط کد های پایتون به مشکل برنخورد
 
 * Made by Amirhossein Abaskohi and Arash Rasouli
